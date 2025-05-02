@@ -1,6 +1,6 @@
 # 🧠 Retail Sales Data Analysis with SQL
 
-Welcome to my SQL portfolio project! This analysis dives deep into a retail sales dataset to extract meaningful business insights using advanced SQL techniques. The goal is to demonstrate real-world data analysis skills by building reports and answering performance-based questions across products, customers, and time.
+Hi, I am Rizwan Khan, Welcome to my SQL portfolio project! This analysis dives deep into a retail sales dataset to extract meaningful business insights using advanced SQL techniques. The goal is to demonstrate real-world data analysis skills by building reports and answering performance-based questions across products, customers, and time.
 
 ---
 
