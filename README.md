@@ -1,10 +1,10 @@
-# 🧠 Retail Sales Data Analysis with SQL
+#  Retail Sales Data Analysis with SQL
 
 Hi, I am Rizwan Khan, Welcome to my SQL portfolio project! This analysis dives deep into a retail sales dataset to extract meaningful business insights using advanced SQL techniques. The goal is to demonstrate real-world data analysis skills by building reports and answering performance-based questions across products, customers, and time.
 
 ---
 
-## 📁 Dataset Structure
+##  Dataset Structure
 
 The dataset is structured in a star schema and includes the following tables:
 
@@ -14,13 +14,13 @@ The dataset is structured in a star schema and includes the following tables:
 
 ---
 
-## 🔍 What This Project Covers
+##  What This Project Covers
 
 This project includes a mix of exploratory analysis, business performance evaluations, and creation of analytical views (reports). Here's a breakdown of what you'll find:
 
 ---
 
-## 1️⃣ Exploratory Time-Series Analysis
+## 1 Exploratory Time-Series Analysis
 
 These queries focus on **monthly trends** in sales and customer activity:
 
@@ -31,9 +31,9 @@ These queries focus on **monthly trends** in sales and customer activity:
 
 ---
 
-## 2️⃣ Performance Deep-Dive
+## 2 Performance Deep-Dive
 
-### 📊 Product Performance
+###  Product Performance
 
 Analyzed product sales over the years using:
 
@@ -50,7 +50,7 @@ Analyzed product sales over the years using:
 
 ---
 
-## 3️⃣ Product Segmentation
+## 3 Product Segmentation
 
 Products were segmented based on their **cost range**:
 
@@ -60,7 +60,7 @@ Products were segmented based on their **cost range**:
 
 ---
 
-## 4️⃣ Customer Segmentation
+## 4 Customer Segmentation
 
 Segmented customers into:
 
@@ -70,9 +70,9 @@ Segmented customers into:
 
 ---
 
-## 📄 Reports Created as SQL Views
+##  Reports Created as SQL Views
 
-### 🧾 `g_product_report`
+###  `g_product_report`
 
 **Purpose**: A complete product dashboard with revenue, behavior, and KPIs  
 **Highlights**:
@@ -81,7 +81,7 @@ Segmented customers into:
 - Segmented as **High-Performer**, **Mid-Range**, or **Low-Performer**
 - KPIs like Average Order Revenue and Monthly Revenue
 
-### 🧾 `g_customer_report`
+###  `g_customer_report`
 
 **Purpose**: Full view of customer behavior and segment performance  
 **Highlights**:
@@ -92,7 +92,7 @@ Segmented customers into:
 
 ---
 
-## 💡 Key SQL Techniques Used
+##  Key SQL Techniques Used
 
 - `WINDOW FUNCTIONS`: `LAG()`, `AVG() OVER`, `SUM() OVER`
 - `COMMON TABLE EXPRESSIONS (CTEs)`
@@ -102,7 +102,7 @@ Segmented customers into:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project showcases how SQL can be used not just for querying data, but for building analytical layers, deriving business KPIs, and supporting decision-making through well-structured insights.
 
@@ -110,6 +110,6 @@ Feel free to fork, study, or build upon it. Always open to feedback and collabor
 
 ---
 
-**🔗 Author**: Rizwan Khan  
-**📚 Tech Stack**: MySQL Workbench  
-**🎯 Goal**: Practicing real-world data analysis & reporting using SQL
+**Author**: Rizwan Khan  
+**Tech Stack**: MySQL Workbench  
+**Goal**: Practicing real-world data analysis & reporting using SQL
