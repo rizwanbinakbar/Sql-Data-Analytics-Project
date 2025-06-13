@@ -42,7 +42,7 @@ Analyzed product sales over the years using:
 - Classification of products as *Above Average*, *Below Average*, or *Average*
 - Sales increase or decrease flags
 
-### 🌍 Regional & Category Analysis
+###  Regional & Category Analysis
 
 - **Top-selling categories and sub-categories**
 - **Sales contribution by country**
